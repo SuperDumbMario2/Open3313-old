@@ -2,9 +2,10 @@
 *an open-source B3313-esque hack.*
 # DISCLAIMER FOR B3313 DEVS!
 I didn't use the rest of contents in leaks, any B3313 assets are from B3313 0.7 or older versions.
-The only contents from leaks used is some old ASM files.
+The only contents from leaks used is some old ASM files and levels.
 You can't take down this project beacuse it uses too low amount of leaked content, plus B3313 is not a subject to copyright at least beacuse it's a romhack of a nintendo game. 
-Also i didn't steal anything from trollengine, just the pre-troll stuff.
+Also i didn't steal anything from trollengine, just the pre-troll stuff and levels.
+Plus i credit you for that.
 Please understand that.
 
 
