@@ -123,6 +123,8 @@ Cybertanuki - some assets (Inculding remade assets)
 
 supermariosan100 - Some assets (Inculding remade assets)
 
+tunasandwich7581 - Some assets
+
 *Inspiration*
 
 B3313 Team - The creators of original inspiration of this hack, B3313.
