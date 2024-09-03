@@ -1,12 +1,14 @@
-SuperDumbMario2's Binary ROM Hack License v1.0
+SuperDumbMario2's Binary SM64 ROM Hack License v1.0
 
-You can't redistribute this file for your own works nor edit it, but you are forced to redistribute it when you are making an edit of a ROM Hack made by SuperDumbMario2 (SDM2).
+!I DO NOT OWN SM64, IT'S NINTENDO TRADEMARK!
+
+You can't redistribute this file for your own works nor edit it, but you are forced to redistribute it when you are making an edit of a SM64 ROM Hack made by SuperDumbMario2 (SDM2).
 
 # Preamble
 
-This license is made for ROM Hacks that are either made by SDM2 or are edits of said hacks.
+This license is made for SM64 ROM Hacks that are either made by SDM2 or are edits of said hacks.
 
-This license is mainly made exclusively for Binary ROM Hacks, and incompatible with any other type of work, inculding decomp hacks (EVEN IF IT WAS MADE BY SDM2)
+This license is mainly made exclusively for Binary SM64 ROM Hacks, and incompatible with any other type of work, inculding decomp sm64 hacks (EVEN IF IT WAS MADE BY SDM2)
 
 This archive must contain this content:
 
