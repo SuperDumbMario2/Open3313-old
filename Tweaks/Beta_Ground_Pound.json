@@ -1,0 +1,24 @@
+{
+  "Name": "Beta Ground Pound",
+  "Scripts": [
+    {
+      "Name": "",
+      "Script": "27a20: 8F AE 00 30 95 CF 00 18 15 E0 00 5E 00 00 00 00\r\n27b60: 03 2A 08 2A 00 00 00 00 00 00 00 00\r\n",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": "F0B33231DDF5FEDF8D1EB78BA6513DCA",
+      "AllowRevert": false
+    }
+  ],
+  "Version": "1.0.0.0",
+  "MinVersion": "1.0.0.0",
+  "MaxVersion": "0.0.0.0",
+  "Description": "Skips mid-air stop and second animation\r\nOriginal Asm Code by Dudaw\r\nTweak Version by Chrisbrutalagresion",
+  "EmbeddedFiles": {
+    "CompressedFiles": {}
+  },
+  "ID": "8BF1716D6A162860359808798A7097F2",
+  "Official": false,
+  "Recommended": false
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "Beta Mario Painting Exit Success",
+  "Scripts": [
+    {
+      "Name": "New Script",
+      "Script": "147AC: 27 BD FF E0 AF BF 00 14 AF A4 00 20 8C 82 00 88 AF A2 00 1C 94 88 00 1A 29 09 00 0F 25 08 00 01 15 20 00 15 A4 88 00 1A 3C 05 24 11 34 A5 80 81 0C 09 44 48 3C 06 00 01 8F A4 00 20 3C 05 0C 00 34 A5 02 32 24 06 00 56 0C 09 62 C9 3C 07 C2 00 10 40 00 05 8F A8 00 20 AD 00 00 54 85 09 00 2E 25 29 80 00 A5 09 00 2E 8F A8 00 1C 85 09 00 1C 25 29 80 00 A5 09 00 1C 00 00 10 25 8F BF 00 14 03 E0 00 08 27 BD 00 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": "79D4325366FA4C0A9181F12FA24B9894",
+      "AllowRevert": false
+    }
+  ],
+  "Version": "1.0.0.0",
+  "MinVersion": "1.14.15.2",
+  "MaxVersion": "0.0.0.0",
+  "Description": "Code by Dudaw.\r\nConverted into a tweak by BBVM.",
+  "EmbeddedFiles": {
+    "CompressedFiles": {}
+  },
+  "ID": "462FE400730706580C99C347303CEECF",
+  "Official": false,
+  "Recommended": false
+}

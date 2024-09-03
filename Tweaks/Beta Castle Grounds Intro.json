@@ -1,0 +1,24 @@
+{
+  "Name": "Beta Castle Grounds Cutscene",
+  "Scripts": [
+    {
+      "Name": "New Script",
+      "Script": "51160: 27 BD FF E8 AF BF 00 14 3C 0E 80 34 85 CE C8 4A 3C 01 80 34 35 CF 00 01 A4 2F C8 4A 3C 18 80 34 27 18 CA 60 87 08 00 1C 11 00 00 04 24 01 00 01 11 01 00 08 00 00 00 00 10 00 00 17 3C 19 80 34 27 39 CA 60 87 28 00 1C 25 09 00 01 A7 29 00 1C 10 00 00 11 24 85 00 04 0C 0A 58 8B 24 86 00 10 10 00 00 0D 24 0B 7F FF 3C 01 80 34 A4 2B CA 5C 3C 0C 80 34 85 8C C8 4A 3C 01 80 34 35 8D 40 00 A4 2D C8 4A 3C 0E 80 34 25 CE CA 60 85 CF 00 40 3C 01 80 34 A4 2F C7 70 3C 09 80 34 85 29 C8 4A 3C 01 80 34 35 39 40 00 A4 39 C8 4A 8F BF 00 14 03 E0 00 08 27 BD 00 18 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": "C091A237A77BFA7B75BA56D2C058419F",
+      "AllowRevert": false
+    }
+  ],
+  "Version": "1.0.0.0",
+  "MinVersion": "1.14.15.2",
+  "MaxVersion": "0.0.0.0",
+  "Description": "",
+  "EmbeddedFiles": {
+    "CompressedFiles": {}
+  },
+  "ID": "FD2FCB8B1E7362CB39A1CAA4B1831A35",
+  "Official": false,
+  "Recommended": false
+}

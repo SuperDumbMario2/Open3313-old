@@ -1,0 +1,24 @@
+{
+  "Name": "Beta Cannon",
+  "Scripts": [
+    {
+      "Name": "New Script",
+      "Script": "1AD44: 3C 01 43 A0\r\n1AF28: 3C 01 42 90\r\n1AF58: 3C 01 42 90\r\n1B050: 00 00 00 00\r\n29B2C: 00 00 00 00\r\n29B38: 3C 01 C1 00 44 81 80 00\r\n29C90: 10 00 00 16\r\n2A0D0: 00 00 00 00\r\n2A104: 3C 04 24 04 34 84 80 81\r\n2A124: 00 00 00 00",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": "54D446C55E735A303894AB3AF1CDA146",
+      "AllowRevert": false
+    }
+  ],
+  "Version": "1.0.0.0",
+  "MinVersion": "1.14.15.2",
+  "MaxVersion": "0.0.0.0",
+  "Description": "Code by Dudaw.\r\nConverted into a tweak by BBVM.",
+  "EmbeddedFiles": {
+    "CompressedFiles": {}
+  },
+  "ID": "9A95E521EE00E93C7EE9BDCDA943BF8D",
+  "Official": false,
+  "Recommended": false
+}

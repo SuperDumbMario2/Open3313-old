@@ -1,0 +1,33 @@
+{
+  "Name": "Centered Camera",
+  "Scripts": [
+    {
+      "Name": "Add Centered Camera",
+      "Script": "3B644: 00 00 00 00",
+      "Type": "TweakScript",
+      "Description": "Adds the Centered Camera.",
+      "References": [],
+      "ID": null,
+      "AllowRevert": false
+    },
+    {
+      "Name": "Remove Centered Camera",
+      "Script": "3B644: 0C 0A 24 FD",
+      "Type": "TweakScript",
+      "Description": "Removes the Centered Camera.",
+      "References": [],
+      "ID": null,
+      "AllowRevert": false
+    }
+  ],
+  "Version": "1.0.0.0",
+  "MinVersion": "1.0.0.0",
+  "MaxVersion": "0.0.0.0",
+  "Description": "Makes Mario centered in the camera, just like in the beta versions. Tweak version by DanilAstroid.",
+  "EmbeddedFiles": {
+    "CompressedFiles": {}
+  },
+  "ID": null,
+  "Official": false,
+  "Recommended": false
+}

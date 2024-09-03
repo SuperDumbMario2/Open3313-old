@@ -1,0 +1,24 @@
+{
+  "Name": "Beta Camera (V3)",
+  "Scripts": [
+    {
+      "Name": "New Script",
+      "Script": "3B644: 00 00 00 00\r\n3F330: 34 06 00 20\r\n47458: 00 00 60 25\r\n474F0: 10 00 00 7F\r\n47510: 10 00 00 0D\r\n4755C: 00 00 78 25\r\n4756C: 00 00 C0 25\r\n53DB8: 00 00 00 00\r\n3BCF8: 00 00 00 00\r\n3E3B4: 00 00 00 00\r\n3E3C4: 00 00 00 00\r\n3DDC4: 3C 01 44 8D\r\n3E520: 3C 01 44 8D\r\n3E654: 3C 01 42 FA\r\n3F108: 00 00 00 00\r\n424EC: 3C 01 43 FA",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": "C30CDF49B0A0FD9E2A3247AD62A9FCF8",
+      "AllowRevert": false
+    }
+  ],
+  "Version": "1.0.0.0",
+  "MinVersion": "1.14.15.2",
+  "MaxVersion": "0.0.0.0",
+  "Description": "",
+  "EmbeddedFiles": {
+    "CompressedFiles": {}
+  },
+  "ID": "5074BC357EFCA4955E17C280687A0458",
+  "Official": false,
+  "Recommended": false
+}

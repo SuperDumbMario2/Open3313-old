@@ -1,0 +1,24 @@
+{
+  "Name": "Beta Mario Bowser Level Exit Success",
+  "Scripts": [
+    {
+      "Name": "New Script",
+      "Script": "14E00: 27 BD FF E0 AF BF 00 14 AF A4 00 20 8C 82 00 88 AF A2 00 1C 94 88 00 1A 29 09 00 0B 25 08 00 01 11 20 00 05 A4 88 00 1A 84 49 00 02 31 29 FF FE A4 49 00 02 10 00 00 12 3C 05 0C 00 34 A5 02 32 24 06 00 4D 0C 09 62 C9 3C 07 C1 C0 10 40 00 05 8F A8 00 20 AD 00 00 54 85 09 00 2E 25 29 80 00 A5 09 00 2E 8F A8 00 1C 85 09 00 1C 25 29 80 00 A5 09 00 1C 85 09 00 02 35 29 00 01 A5 09 00 02 00 00 10 25 8F BF 00 14 03 E0 00 08 27 BD 00 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": "217767557237CADAF84BDE1AE7B6FB32",
+      "AllowRevert": false
+    }
+  ],
+  "Version": "1.0.0.0",
+  "MinVersion": "1.14.15.2",
+  "MaxVersion": "0.0.0.0",
+  "Description": "Code by Dudaw.\r\nConverted into a tweak by BBVM.",
+  "EmbeddedFiles": {
+    "CompressedFiles": {}
+  },
+  "ID": "5F76A402D09BBFC9C8E1AECBF94577F6",
+  "Official": false,
+  "Recommended": false
+}

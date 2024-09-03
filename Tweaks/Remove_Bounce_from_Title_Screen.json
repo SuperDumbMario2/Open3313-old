@@ -1,0 +1,24 @@
+{
+  "Name": "Remove Bounce from Title Screen",
+  "Scripts": [
+    {
+      "Name": "New Script",
+      "Script": "21FD68:44 05 00 00 44 06 00 00 0C 0C 96 49 44 07 00 00",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": "AD9E75491549C90150FF118E26CBE5DC",
+      "AllowRevert": false
+    }
+  ],
+  "Version": "1.0.0.0",
+  "MinVersion": "1.13.8.0",
+  "MaxVersion": "0.0.0.0",
+  "Description": "",
+  "EmbeddedFiles": {
+    "CompressedFiles": {}
+  },
+  "ID": "DC312DBDD3873DCAD171B3438514C651",
+  "Official": false,
+  "Recommended": false
+}

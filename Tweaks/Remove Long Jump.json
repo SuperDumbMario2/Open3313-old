@@ -1,0 +1,24 @@
+{
+  "Name": "Remove Long Jump",
+  "Scripts": [
+    {
+      "Name": "New Script",
+      "Script": "2AE9C: 0C 09 AD A8\r\n66C: 30 E8 00 06\r\n678: 30 08 00 03\r\nD924: 24 00 00 05\r\nD92C: 3C 01 41 C0",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": "DAC6661BD08B058A29F107908101D23E",
+      "AllowRevert": false
+    }
+  ],
+  "Version": "1.0.0.0",
+  "MinVersion": "1.14.15.2",
+  "MaxVersion": "0.0.0.0",
+  "Description": "",
+  "EmbeddedFiles": {
+    "CompressedFiles": {}
+  },
+  "ID": "E3AE872F6840735BF79E67CB1A63FB6E",
+  "Official": false,
+  "Recommended": false
+}
