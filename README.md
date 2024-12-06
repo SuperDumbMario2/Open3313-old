@@ -1,4 +1,4 @@
-# WARNING! The development on this version of Open3313 has ended. The next hack will be based on Project Yippee 96, and the name will be taken for an decomp port attempt for B3313 v1.0.2. Thanks for understanding.
+# WARNING! The development on this version of Open3313 has ended. The next hack will be based on Project Yippee 96 and named differently, and the name will be taken for an decomp port attempt for B3313 v1.0.2. Thanks for understanding.
 
 # Builds and source code for Open3313.
 
